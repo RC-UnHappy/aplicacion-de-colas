@@ -1,9 +1,5 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
+Aplicación para generar tickets y poder atenderlos en tiempo real
+https://aplicacion-de-colas.herokuapp.com/
 ```
